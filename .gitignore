@@ -1,0 +1,12 @@
+
+.DS_Store
+.idea
+*.tfstate
+*.tfstate.*
+**logs/
+**.env
+**__pycache__/
+.history
+serving_dir
+*.csv
+.ipynb_checkpoints/
