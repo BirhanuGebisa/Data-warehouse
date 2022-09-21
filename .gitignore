@@ -3,7 +3,7 @@
 .idea
 *.tfstate
 *.tfstate.*
-**logs/
+logs/
 **.env
 **__pycache__/
 .history
