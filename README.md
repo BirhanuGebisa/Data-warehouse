@@ -31,13 +31,10 @@ Tech Stack
      ```shell
      docker-compose build
      ```
-   
      or (for legacy versions)
-   
      ```shell
      docker build .
      ```
-
  2. Initialize the Airflow scheduler, DB, and other config
     ```shell
     docker-compose up airflow-init
