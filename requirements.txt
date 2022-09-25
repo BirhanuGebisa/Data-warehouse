@@ -1,2 +1,4 @@
-apache-airflow-providers-google
-pyarrow
+pandas
+numpy
+airflow=2.3
+dbt=0.15
