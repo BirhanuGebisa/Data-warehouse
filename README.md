@@ -63,7 +63,6 @@ Tech Stack
     ```
     docker-compose down --volumes --rmi all
     ```
-
     or
     ```
     docker-compose down --volumes --remove-orphans
