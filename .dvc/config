@@ -1,0 +1,4 @@
+[core]
+    remote = mystorage
+['remote "mystorage"']
+    url = /home/sucess/10-academy/week-5/Data-warehouse/temp
