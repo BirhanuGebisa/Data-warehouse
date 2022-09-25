@@ -87,6 +87,6 @@ For more info, check out these official docs:
    * https://airflow.apache.org/docs/docker-stack/build.html
    * https://airflow.apache.org/docs/docker-stack/recipes.html
 ### Author
-* name: Birhanu Gebisa
+* Name: Birhanu Gebisa
 * Email:birhanugebisa@gmail.com
 * Github:https://github.com/BirhanuGebisa
