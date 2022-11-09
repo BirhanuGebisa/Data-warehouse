@@ -34,6 +34,7 @@ Tech Stack
      or (for legacy versions)
      ```shell
      docker build .
+     docker build . --tag apache_dbt/airflow:2.3.3
      ```
  2. Initialize the Airflow scheduler, DB, and other config
     ```shell
