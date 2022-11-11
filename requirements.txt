@@ -1,4 +1,4 @@
 pandas
 numpy
-airflow==2.3
+airflow==2.4.2
 dbt==0.15
