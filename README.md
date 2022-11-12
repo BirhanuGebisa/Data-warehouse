@@ -1,5 +1,5 @@
 ### Concepts
-
+![Sysytem Flow](./screenshot/system.png)
 ETL
 Introduction
 The biggest problem while designing these systems is integrating one tool with another because, in real-world projects, a single system may use multiple tools for varied purposes. In this blog post, we'll look at how to create a useful pipeline that saves data in a data warehouse (Postgres) and transforms it using dbt once it's been stored. Airflow will direct the project's flow.
