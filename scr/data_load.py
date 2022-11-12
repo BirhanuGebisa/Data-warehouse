@@ -84,6 +84,8 @@ class Extractor():
                 self.logger.error(f"Error: {e}")
             except:
                 pass
+    def sep_data(self,file_name:str,chunk_size:int = 50):
+        pass
 
     def extract_data(self,file_name:str,return_json=False)->pd.DataFrame:
         try:
@@ -109,3 +111,4 @@ class Extractor():
                 self.logger.error(f"Error: {e}")
             except:
                 pass
+    
